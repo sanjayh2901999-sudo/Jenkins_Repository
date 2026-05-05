@@ -81,6 +81,7 @@
   </plugins>
 </build>
 </profile>
+
 <profile>
 <id>SmokeTest</id>
 <build>
@@ -103,7 +104,7 @@
 
 
 <profile>
-<id>RegionalRegressionTest</id>
+<id>RegionalRegressionTest1</id>
 <build>
   <plugins>
     <plugin>
@@ -113,7 +114,7 @@
       
      <configuration>
         <suiteXmlFiles>
-          <suiteXmlFile>suite_regional_RegressionTest.xml</suiteXmlFile>
+          <suiteXmlFile>suite_regional_RegressionTest1.xml</suiteXmlFile>
         </suiteXmlFiles>
       </configuration>
       
