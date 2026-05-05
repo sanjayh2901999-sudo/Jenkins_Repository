@@ -93,7 +93,7 @@
       
      <configuration>
         <suiteXmlFiles>
-          <suiteXmlFile>suite_Group_Execution_smokeTest.xml</suiteXmlFile>
+          <suiteXmlFile>suite_Group_Execution_smokeTest1.xml</suiteXmlFile>
         </suiteXmlFiles>
       </configuration>
       
