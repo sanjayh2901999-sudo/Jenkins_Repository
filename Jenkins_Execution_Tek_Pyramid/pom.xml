@@ -73,7 +73,7 @@
       
      <configuration>
         <suiteXmlFiles>
-          <suiteXmlFile>Maven_Parameter_testng.xml</suiteXmlFile>
+         <suiteXmlFile>src/test/java/Maven_Parameter_testng.xml</suiteXmlFile>
         </suiteXmlFiles>
       </configuration>
       
