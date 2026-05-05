@@ -73,7 +73,7 @@
       
      <configuration>
         <suiteXmlFiles>
-         <suiteXmlFile>src/test/java/Maven_Parameter_testng.xml</suiteXmlFile>
+          <suiteXmlFile>Maven_Parameter_testng.xml</suiteXmlFile>
         </suiteXmlFiles>
       </configuration>
       
@@ -81,8 +81,6 @@
   </plugins>
 </build>
 </profile>
-
-
 <profile>
 <id>SmokeTest</id>
 <build>
@@ -94,7 +92,7 @@
       
      <configuration>
         <suiteXmlFiles>
-          <suiteXmlFile>suite_Group_Execution_smokeTest1.xml</suiteXmlFile>
+          <suiteXmlFile>suite_Group_Execution_smokeTest.xml</suiteXmlFile>
         </suiteXmlFiles>
       </configuration>
       
@@ -115,7 +113,7 @@
       
      <configuration>
         <suiteXmlFiles>
-          <suiteXmlFile>suite_regional_RegressionTest1.xml</suiteXmlFile>
+          <suiteXmlFile>suite_regional_RegressionTest.xml</suiteXmlFile>
         </suiteXmlFiles>
       </configuration>
       
